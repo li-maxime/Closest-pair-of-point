@@ -10,9 +10,9 @@ Objective : Find the closest pair of points
 We are given a list of points in [0,1]x[0,1]. The objective is to return the closest pair of point
 
 
-Team : Alone
-Time Spent : ~40h
-Technologies used:
+Team : Alone  
+Time Spent : ~40h  
+Technologies used:  
 - Python
 
 
